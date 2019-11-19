@@ -9,3 +9,11 @@
 
 // DOCUMENT READY FUNCTION BELOW
 
+$("#shoot").click(function(){
+let hey= $("#input").val();
+$("#userChoice").text(hey);
+
+});
+
+if ( input == )
+
